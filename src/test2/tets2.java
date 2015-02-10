@@ -11,5 +11,5 @@ package test2;
  */
 public class tets2
 {
-    
+    System.out.println("miet");
 }
